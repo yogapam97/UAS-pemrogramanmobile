@@ -1,16 +1,13 @@
-# flutter_application_2
+# Recipe App 🍽️
 
-A new Flutter project.
+Aplikasi pencarian resep makanan berbasis Flutter yang menggunakan API dari [TheMealDB](https://www.themealdb.com).
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Features
+- 🍽️ Tampilkan resep acak setiap kali aplikasi dibuka
+![Deskripsi Gambar](https://drive.google.com/uc?id=1W7aHqdUL1dmTR4OmjONPSphddCEX9U8I)
+  
+- 🔍 Cari resep makanan berdasarkan nama
+![Deskripsi Gambar](https://drive.google.com/uc?id=1-6jAy_B5O1Krs88ut4Y2DTQ9jOJEB6e0)
+  
+- 📜 Detail resep termasuk bahan dan langkah-langkah memasak
+![Deskripsi Gambar](https://drive.google.com/uc?id=190tBzgIp1XTTXnLcLO9PDINQGUlbfe-n)
